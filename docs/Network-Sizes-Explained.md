@@ -249,4 +249,193 @@ Just like running a **tea stall**, a **café chain**, and a **whole 5-star hotel
 
 ---
 
+## How the Sales Team Should Approach Each Client
+
+Different clients think differently, spend differently, and decide differently.
+**One sales pitch does NOT fit all.** Here's how the sales team should talk to each type of client.
+
+---
+
+### 🔑 Golden Rule
+
+| Client Size | Speak like… | Focus on… |
+|---|---|---|
+| **Small Shop** | A helpful friend | Saving money, easy to use |
+| **Average Store** | A business partner | Growth, features, ROI |
+| **Big Marketplace** | A professional consultant | Scale, security, long-term value |
+
+---
+
+## 🏠 SMALL SHOP (Home Seller) — Sales Approach
+
+**Who are they?** Solo owners, home-based sellers, first-time entrepreneurs.
+**What they fear?** Wasting money. Getting cheated. Tech being too complicated.
+**What they love?** Quick results. Simple words. Human connection.
+
+### 🟢 LOW Package — "Just Starting Out"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Hindi / regional / mix. Avoid English tech words. |
+| **Channel** | WhatsApp call, Instagram DM, in-person visit |
+| **Pitch Length** | 2–3 minutes. Straight to the point. |
+| **Focus on** | "Aapka kaam easy ho jayega" — make life easy |
+| **Avoid** | Long demos, fancy features, technical terms |
+| **Close with** | Free trial / small first payment |
+| **Example line** | *"Bhaiya, sirf ₹500 mein aapki dukaan online aa jayegi. Koi setup fees nahi."* |
+
+### 🟡 MID Package — "Ready to Grow"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Simple English + local language mix |
+| **Channel** | Video call (Zoom / Meet), quick demo |
+| **Pitch Length** | 10–15 minutes |
+| **Focus on** | More orders, better brand image, automation |
+| **Avoid** | Pushing the top package; they're price-sensitive |
+| **Close with** | Show before/after of similar home sellers |
+| **Example line** | *"Aapki tarah ek home baker ne yeh package liya — 3 mahine mein 3x orders ho gaye."* |
+
+### 🔵 PRO Package — "Serious About Business"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Professional but friendly |
+| **Channel** | Proper meeting or long video call |
+| **Pitch Length** | 30 minutes with proper demo |
+| **Focus on** | Brand building, ads, repeat customers |
+| **Avoid** | Treating them like beginners |
+| **Close with** | Case study + growth plan for next 6 months |
+| **Example line** | *"Let's build your brand properly. I'll show you how other boutique brands crossed ₹10 lakh/month."* |
+
+---
+
+## 🏘️ AVERAGE STORE (Growing Brand) — Sales Approach
+
+**Who are they?** Brand owners, founders, marketing heads, operations managers.
+**What they fear?** Stagnation. Losing to competitors. Wasting team's time.
+**What they love?** Numbers, growth charts, case studies, ROI.
+
+### 🟢 LOW Package — "New Brand Finding Its Feet"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Business English with clear numbers |
+| **Channel** | Formal meeting with 1–2 decision makers |
+| **Pitch Length** | 30–45 minutes with slides |
+| **Focus on** | Getting online fast, low risk entry, quick wins |
+| **Avoid** | Talking only about features — talk about outcomes |
+| **Close with** | 3-month pilot offer with clear goals |
+| **Example line** | *"In 60 days, we'll help you go from 0 to 500 orders/day. Here's exactly how."* |
+
+### 🟡 MID Package — "Scaling Brand"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Formal, data-driven |
+| **Channel** | In-person meeting at their office |
+| **Pitch Length** | 1 hour — discovery + pitch + Q&A |
+| **Focus on** | ROI, conversion rate, automation, reducing manual work |
+| **Avoid** | One-size-fits-all pitch; customize per client |
+| **Close with** | Comparison with their current system vs. proposed |
+| **Example line** | *"You're spending 40 hours/week on manual orders. Our system saves 30 of those — that's 1 extra employee's worth of time."* |
+
+### 🔵 PRO Package — "Established, Ready to Dominate"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Strategic, partnership-style |
+| **Channel** | Multiple meetings with different stakeholders (founder, CTO, marketing head) |
+| **Pitch Length** | Multiple sessions across 2–3 weeks |
+| **Focus on** | Long-term partnership, exclusivity, dedicated support |
+| **Avoid** | Discount-based selling; they value quality over cost |
+| **Close with** | Custom-built proposal with dedicated account manager |
+| **Example line** | *"We're not selling you software — we're joining your growth team. Here's our 12-month roadmap together."* |
+
+---
+
+## 🏙️ BIG MARKETPLACE (Enterprise) — Sales Approach
+
+**Who are they?** CXOs, Heads of Departments, Procurement teams, Legal, IT.
+**What they fear?** Downtime. Security risks. Vendor lock-in. Compliance issues.
+**What they love?** Stability, proven track record, SLAs, 24x7 support.
+
+### 🟢 LOW Package — "Entry-Level Enterprise Deal"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Corporate, polished |
+| **Channel** | Formal RFP (Request for Proposal) process |
+| **Pitch Length** | Multi-week process; several rounds of meetings |
+| **Focus on** | Reliability, past enterprise clients, certifications |
+| **Avoid** | Rushing, informal language, promises you can't keep |
+| **Close with** | Pilot program with clear success metrics + SLA |
+| **Example line** | *"Here's our track record with 3 clients of your size, and here's our SLA-backed commitment."* |
+
+### 🟡 MID Package — "Enterprise at Scale"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Highly formal, C-level appropriate |
+| **Channel** | Board meetings, executive presentations |
+| **Pitch Length** | 3–6 month sales cycle |
+| **Focus on** | Scalability, security audits, integration with existing systems |
+| **Avoid** | Skipping legal/procurement; they're key decision-makers |
+| **Close with** | Master Service Agreement + custom pricing |
+| **Example line** | *"We handle X orders/second with 99.99% uptime. Here's our architecture document and security report."* |
+
+### 🔵 PRO Package — "Global Enterprise Giant"
+
+| Topic | How to Approach |
+|---|---|
+| **Language** | Strategic advisory |
+| **Channel** | Top-level relationship; CEO-to-CEO when needed |
+| **Pitch Length** | 6–12 month sales cycle |
+| **Focus on** | Strategic partnership, co-innovation, global compliance |
+| **Avoid** | Transactional approach; this is relationship-based |
+| **Close with** | Multi-year contract + joint roadmap + executive sponsorship |
+| **Example line** | *"We're not a vendor — we're a strategic partner. Let's build the next 5 years of your platform together."* |
+
+---
+
+## 📋 Quick Reference — Sales Playbook
+
+| Package | Time to Close | Who Decides? | What They Want to Hear |
+|---|---|---|---|
+| **Small — Low** | 1 day | The owner himself | "Simple. Cheap. Easy." |
+| **Small — Mid** | 3–7 days | Owner + family | "More sales. Less work." |
+| **Small — Pro** | 1–2 weeks | Owner | "Build my brand." |
+| **Average — Low** | 2–4 weeks | Founder / Manager | "Quick start with low risk." |
+| **Average — Mid** | 1–2 months | Founder + Team | "Prove the ROI with data." |
+| **Average — Pro** | 2–3 months | Leadership team | "Be my growth partner." |
+| **Big — Low** | 3–4 months | Multiple departments | "Reliability and proof." |
+| **Big — Mid** | 4–6 months | C-suite + Procurement | "Security, scale, SLA." |
+| **Big — Pro** | 6–12 months | CEO + Board | "Strategic long-term value." |
+
+---
+
+## ⚠️ Common Sales Mistakes to AVOID
+
+| Don't Do This | Why It Fails |
+|---|---|
+| Use heavy English with small sellers | They get confused and back off |
+| Push the PRO package to a LOW client | They feel pressured, never come back |
+| Show only features, no outcomes | Clients don't buy features — they buy results |
+| Talk about yourself too much | Clients want to talk about *their* problem |
+| Rush big enterprise clients | You'll skip key stakeholders and lose the deal |
+| Offer deep discounts to PRO clients | They start doubting the quality |
+| Give the same demo to everyone | One demo can't sell to all 9 package levels |
+
+---
+
+## ✅ The Sales Team's Golden Flow
+
+1. **LISTEN first** — find out what size business they are.
+2. **MATCH** — pick the right package (Small/Avg/Big × Low/Mid/Pro).
+3. **SPEAK their language** — language, numbers, and examples should match their level.
+4. **SHOW proof** — use examples from a similar-size client.
+5. **CLOSE with the right offer** — trial, pilot, or long-term contract based on package.
+
+---
+
 *Made simple so that even someone who has never touched a computer or run a business can understand it.*
